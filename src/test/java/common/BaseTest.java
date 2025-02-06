@@ -19,7 +19,6 @@ public class BaseTest {
 		driver= new FirefoxDriver();
 	}
 	
-	
 	@AfterSuite
 	public void closedriver()
 	{
